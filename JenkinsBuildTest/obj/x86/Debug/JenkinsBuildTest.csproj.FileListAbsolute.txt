@@ -1,0 +1,6 @@
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTest\bin\Debug\JenkinsBuildTest.exe
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTest\bin\Debug\JenkinsBuildTest.pdb
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTest\bin\Debug\JenkinsBuildTestLib.dll
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTest\bin\Debug\JenkinsBuildTestLib.pdb
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTest\obj\x86\Debug\JenkinsBuildTest.exe
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTest\obj\x86\Debug\JenkinsBuildTest.pdb

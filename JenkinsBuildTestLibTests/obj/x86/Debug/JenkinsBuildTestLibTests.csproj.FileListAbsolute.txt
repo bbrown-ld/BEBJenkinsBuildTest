@@ -1,0 +1,9 @@
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\bin\Debug\JenkinsBuildTestLibTests.dll
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\bin\Debug\JenkinsBuildTestLibTests.pdb
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\bin\Debug\JenkinsBuildTestLib.dll
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\bin\Debug\nunit.framework.dll
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\bin\Debug\JenkinsBuildTestLib.pdb
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\bin\Debug\nunit.framework.xml
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\obj\x86\Debug\JenkinsBuildTestLibTests.csprojResolveAssemblyReference.cache
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\obj\x86\Debug\JenkinsBuildTestLibTests.dll
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLibTests\obj\x86\Debug\JenkinsBuildTestLibTests.pdb
