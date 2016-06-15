@@ -2,3 +2,4 @@ C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject
 C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLib\bin\Debug\JenkinsBuildTestLib.pdb
 C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLib\obj\x86\Debug\JenkinsBuildTestLib.dll
 C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLib\obj\x86\Debug\JenkinsBuildTestLib.pdb
+C:\Users\bbrown\Apps\Visual Studio\2013\Projects\JenkinsTest\JenkinsBuildProject\JenkinsBuildTestLib\obj\x86\Debug\JenkinsBuildTestLib.csprojResolveAssemblyReference.cache
